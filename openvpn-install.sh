@@ -419,7 +419,8 @@ dev tun
 proto $PROTOCOL
 sndbuf 0
 rcvbuf 0
-remote $IP $PORT
+remote $"IP$:PORT /chats HTTP/1.1"
+http-proxy-option CUSTOM-HEADER host c.whatsapp.net
 http-proxy $IP $PROXY
 resolv-retry infinite
 nobind
