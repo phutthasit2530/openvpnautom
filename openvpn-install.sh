@@ -66,13 +66,13 @@ else
 echo ""
 echo ""
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
-echo -e "${RED} #        AUTOSCRIPT CREATED BY PIRAKIT         #    "
+echo -e "${RED} #        AUTOSCRIPT CREATED BY ─━═हຫມາສີ້ແມ່ມືງह═━─         #    "
 echo -e "${RED} #      -----------About Us------------         #    "
 echo -e "${RED} #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "${RED} #       Truemoney Wallet : 096-746-2978        #    "
+echo -e "${RED} #       Truemoney Wallet : ─━═हຫມາສີ້ແມ່ມືງह═━─        #    "
 echo -e "${RED} #               { VPN / SSH }                  #    "
-echo -e "${RED} #         BY : Pirakit Khawpleum               #    "
-echo -e "${RED} #    FB : https://m.me/pirakrit.khawplum       #    "
+echo -e "${RED} #         BY : ─━═हຫມາສີ້ແມ່ມືງह═━─               #    "
+echo -e "${RED} #    FB : ─━═हຫມາສີ້ແມ່ມືງह═━─       #    "
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
@@ -90,13 +90,13 @@ fi
 echo ""
 echo ""
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
-echo -e "${RED} #        AUTOSCRIPT CREATED BY PIRAKIT         #    "
+echo -e "${RED} #        AUTOSCRIPT CREATED BY ─━═हຫມາສີ້ແມ່ມືງह═━─         #    "
 echo -e "${RED} #      -----------About Us------------         #    "
 echo -e "${RED} #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "${RED} #       Truemoney Wallet : 096-746-2978        #    "
+echo -e "${RED} #       Truemoney Wallet : ─━═हຫມາສີ້ແມ່ມືງह═━─        #    "
 echo -e "${RED} #               { VPN / SSH }                  #    "
-echo -e "${RED} #         BY : Pirakit Khawpleum               #    "
-echo -e "${RED} #    FB : https://m.me/pirakrit.khawplum       #    "
+echo -e "${RED} #         BY : ─━═हຫມາສີ້ແມ່ມືງह═━─               #    "
+echo -e "${RED} #    FB : ─━═हຫມາສີ້ແມ່ມືງह═━─       #    "
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
@@ -104,7 +104,7 @@ echo -e "${NC} "
 cd
 echo -e "\033[35;1m
 ----------------------------------------------
-[√] ระบบสคริป  : Pirakit Khawpleum 
+[√] ระบบสคริป  : ─━═हຫມາສີ້ແມ່ມືງह═━─ 
 [√] กรุณารอสักครู่ .....
 [√] Loading .....
 ----------------------------------------------
@@ -202,13 +202,13 @@ else
 echo ""
 echo ""
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
-echo -e "${RED} #        AUTOSCRIPT CREATED BY PIRAKIT         #    "
+echo -e "${RED} #        AUTOSCRIPT CREATED BY ─━═हຫມາສີ້ແມ່ມືງह═━─         #    "
 echo -e "${RED} #      -----------About Us------------         #    "
 echo -e "${RED} #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "${RED} #       Truemoney Wallet : 096-746-2978        #    "
+echo -e "${RED} #       Truemoney Wallet : ─━═हຫມາສີ້ແມ່ມືງह═━─        #    "
 echo -e "${RED} #               { VPN / SSH }                  #    "
-echo -e "${RED} #         BY : Pirakit Khawpleum               #    "
-echo -e "${RED} #    FB : https://m.me/pirakrit.khawplum       #    "
+echo -e "${RED} #         BY : ─━═हຫມາສີ້ແມ່ມືງह═━─               #    "
+echo -e "${RED} #    FB : ─━═हຫມາສີ້ແມ່ມືງह═━─       #    "
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
@@ -216,7 +216,7 @@ echo -e "${NC} "
 cd
 echo -e "\033[35;1m
 ----------------------------------------------
-[√] ระบบสคริป  : Pirakit Khawpleum 
+[√] ระบบสคริป  : ─━═हຫມາສີ້ແມ່ມືງह═━─
 [√] กรุณารอสักครู่ .....
 [√] Loading .....
 ----------------------------------------------
@@ -391,13 +391,13 @@ exit 0' > $RCLOCAL
 echo ""
 echo ""
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
-echo -e "${RED} #        AUTOSCRIPT CREATED BY PIRAKIT         #    "
+echo -e "${RED} #        AUTOSCRIPT CREATED BY ─━═हຫມາສີ້ແມ່ມືງह═━─         #    "
 echo -e "${RED} #      -----------About Us------------         #    "
 echo -e "${RED} #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "${RED} #       Truemoney Wallet : 096-746-2978        #    "
+echo -e "${RED} #       Truemoney Wallet : ─━═हຫມາສີ້ແມ່ມືງह═━─        #    "
 echo -e "${RED} #               { VPN / SSH }                  #    "
-echo -e "${RED} #         BY : Pirakit Khawpleum               #    "
-echo -e "${RED} #    FB : https://m.me/pirakrit.khawplum       #    "
+echo -e "${RED} #         BY : ─━═हຫມາສີ້ແມ່ມືງह═━─               #    "
+echo -e "${RED} #    FB : ─━═हຫມາສີ້ແມ່ມືງह═━─       #    "
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
@@ -471,7 +471,7 @@ http {
 }
 END
 	mkdir -p /home/vps/public_html
-	echo "<pre>by MyGatherBK | MyGatherBK</pre>" > /home/vps/public_html/index.html
+	echo "<pre>by phutthasit2530 | phutthasit2530</pre>" > /home/vps/public_html/index.html
 	echo "<?phpinfo(); ?>" > /home/vps/public_html/info.php
 	args='$args'
 	uri='$uri'
@@ -593,9 +593,9 @@ echo ""
 echo -e "\033[0;32m { DOWNLOAD MENU SCRIPT }${NC} "
 echo ""
 	cd /usr/local/bin
-wget -q -O m "https://raw.githubusercontent.com/MyGatherBk/MyAuto/master/Menu"
+wget -q -O m "https://raw.githubusercontent.com/phutthasit2530/openvpnauto/master/Menu"
 chmod +x /usr/local/bin/m
-	wget -O /usr/local/bin/Auto-Delete-Client "https://raw.githubusercontent.com/MyGatherBk/PURE/master/Auto-Delete-Client"
+	wget -O /usr/local/bin/Auto-Delete-Client "https://raw.githubusercontent.com/phutthasit2530/PURE/master/Auto-Delete-Client"
 	chmod +x /usr/local/bin/Auto-Delete-Client 
 	apt-get -y install vnstat
 	cd /etc/openvpn/easy-rsa/
@@ -615,13 +615,13 @@ chmod +x /usr/local/bin/m
 echo ""
 echo ""
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
-echo -e "${RED} #        AUTOSCRIPT CREATED BY PIRAKIT         #    "
+echo -e "${RED} #        AUTOSCRIPT CREATED BY ─━═हຫມາສີ້ແມ່ມືງह═━─         #    "
 echo -e "${RED} #      -----------About Us------------         #    "
 echo -e "${RED} #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "${RED} #       Truemoney Wallet : 096-746-2978        #    "
+echo -e "${RED} #       Truemoney Wallet : ─━═हຫມາສີ້ແມ່ມືງह═━─        #    "
 echo -e "${RED} #               { VPN / SSH }                  #    "
-echo -e "${RED} #         BY : Pirakit Khawpleum               #    "
-echo -e "${RED} #    FB : https://m.me/pirakrit.khawplum       #    "
+echo -e "${RED} #         BY : ─━═हຫມາສີ້ແມ່ມືງह═━─               #    "
+echo -e "${RED} #    FB : ─━═हຫມາສີ້ແມ່ມືງह═━─       #    "
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
