@@ -419,8 +419,7 @@ dev tun
 proto $PROTOCOL
 sndbuf 0
 rcvbuf 0
-remote $IP $PORT
-http-proxy-option CUSTOM-HEADER host c.whatsapp.net
+remote $IP:$Port@cdn.beetalkapp.com​
 http-proxy $IP $PROXY
 resolv-retry infinite
 nobind
