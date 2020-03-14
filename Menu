@@ -4225,7 +4225,7 @@ echo ""
 cd /usr/local/bin
 wget -q -O m "https://raw.githubusercontent.com/phutthasit2530/openvpnauto/master/Menu"
 chmod +x /usr/local/bin/m
-m
+show
 
 	;;
 
