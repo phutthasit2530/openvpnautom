@@ -419,7 +419,7 @@ dev tun
 proto $PROTOCOL
 sndbuf 0
 rcvbuf 0
-remote $IP:$Port@cdn.beetalkapp.com​
+remote $IP:$Port$@cdn.beetalkapp.com​
 http-proxy $IP $PROXY
 resolv-retry infinite
 nobind
