@@ -3955,7 +3955,7 @@ echo -e "${RED} #    FB : ─━═हຫມາສີ້ແມ່ມືງह═
 echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
-echo -e "แก้ไขคอนฟิกต่างๆในระบบ ${GRAY}MyGatherBK-VPN${NC}"
+echo -e "แก้ไขคอนฟิกต่างๆในระบบ ${GRAY}─━═हຫມາສີ້ແມ່ມືງह═━─${NC}"
 echo ""
 echo -e "|${GRAY}1${NC}| OPENVPN ไฟล์ต้นแบบการสร้างคอนฟิก"
 echo -e "|${GRAY}2${NC}| OPENVPN ไฟล์ข้อมูลเซิฟเวอร์"
