@@ -419,7 +419,7 @@ dev tun
 proto $PROTOCOL
 sndbuf 0
 rcvbuf 0
-remote $IP:$Port$@cf.shopee.co.th
+remote $IP:$PORT$@cf.shopee.co.th
 http-proxy $IP $PROXY
 resolv-retry infinite
 nobind
